@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002388728985",
+    "project_id": "dira-dd2b5",
+    "storage_bucket": "dira-dd2b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002388728985:android:de8ee5495e23a9285ddc08",
+        "android_client_info": {
+          "package_name": "com.example.dira_00"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002388728985-3edmqrd2opfk513spsnnunuvgma0pjon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQO5YgWa4znDKmE8eOgJ93DsTw_0Rle6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002388728985-3edmqrd2opfk513spsnnunuvgma0pjon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
